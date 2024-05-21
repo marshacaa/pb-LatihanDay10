@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.latihan_day_10.app-mergeDebugResources-30:/layout/halaman2.xml",
+        "source": "com.example.latihan_day_10.app-main-33:/layout/halaman2.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-mergeDebugResources-30:/layout/halaman4.xml",
+        "source": "com.example.latihan_day_10.app-main-33:/layout/halaman4.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-mergeDebugResources-30:/layout/halaman1.xml",
+        "source": "com.example.latihan_day_10.app-main-33:/layout/halaman1.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-mergeDebugResources-30:/layout/halaman5.xml",
+        "source": "com.example.latihan_day_10.app-main-33:/layout/halaman5.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-mergeDebugResources-30:/layout/halaman3.xml",
+        "source": "com.example.latihan_day_10.app-main-33:/layout/halaman3.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-mergeDebugResources-30:/layout/halaman6.xml",
+        "source": "com.example.latihan_day_10.app-main-33:/layout/halaman6.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-mergeDebugResources-30:/layout/halaman7.xml",
+        "source": "com.example.latihan_day_10.app-main-33:/layout/halaman7.xml"
+    }
+]

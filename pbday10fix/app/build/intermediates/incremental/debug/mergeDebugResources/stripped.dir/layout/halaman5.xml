@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.example.latihan_day_10.MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Skip Button -->
+
+            <TextView
+                android:id="@+id/tvWelcomeBack"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:text="Which of these describe you?"
+                android:textColor="#5A2D82"
+                android:textSize="32sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/subtitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="Select as many as you'd like."
+                android:textSize="16sp"
+                android:gravity="center_horizontal" />
+
+            <GridLayout
+                android:id="@+id/imageGrid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:columnCount="2"
+                android:rowCount="3"
+                android:alignmentMode="alignMargins"
+                android:useDefaultMargins="true">
+
+                <!-- Image 1 -->
+                <ImageView
+                    android:id="@+id/image1"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_columnWeight="1"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:contentDescription="Image 1"
+                    android:src="@drawable/ini1" />
+
+                <!-- Image 2 -->
+                <ImageView
+                    android:id="@+id/image2"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_columnWeight="1"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:contentDescription="Image 2"
+                    android:src="@drawable/ini2" />
+
+                <!-- Image 3 -->
+                <ImageView
+                    android:id="@+id/image3"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_columnWeight="1"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:contentDescription="Image 3"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/ini3" />
+
+                <!-- Image 4 -->
+                <ImageView
+                    android:id="@+id/image4"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_columnWeight="1"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:contentDescription="Image 4"
+                    android:src="@drawable/ini4" />
+
+                <!-- Image 5 -->
+                <ImageView
+                    android:id="@+id/image5"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_columnWeight="1"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:contentDescription="Image 5"
+                    android:src="@drawable/ini5" />
+
+                <Button
+                    android:id="@+id/skipButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="16dp"
+                    android:text="Skip" />
+            </GridLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

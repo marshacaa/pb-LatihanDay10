@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_pict1.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/pict1.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/layout_halaman4.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/layout/halaman4.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_ini2.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/ini2.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_rounded_background.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/rounded_background.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_pict4.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/pict4.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_banner2.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/banner2.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-xxhdpi_bg.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-xxhdpi/bg.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-xxxhdpi_bg.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-xxxhdpi/bg.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_ini3.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/ini3.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_pict2.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/pict2.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_day.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/day.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-hdpi_bg1hal1.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-hdpi/bg1hal1.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_halaman6.jpg.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/halaman6.jpg"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_bgpict3.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/bgpict3.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_bg_skip.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/bg_skip.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-xxhdpi_bgemail1.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-xxhdpi/bgemail1.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-xxxhdpi_bgemail1.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-xxxhdpi/bgemail1.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-xhdpi_bg.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-xhdpi/bg.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/layout_halaman1.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/layout/halaman1.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_email11.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/email11.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-xhdpi_bgemail1.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-xhdpi/bgemail1.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/layout_halaman7.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/layout/halaman7.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_email1.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/email1.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_pict5.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/pict5.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_morning.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/morning.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-xhdpi_image.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-xhdpi/image.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_halaman2.jpg.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/halaman2.jpg"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-xxhdpi_image.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-xxhdpi/image.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-hdpi_background_2.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-hdpi/background_2.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-hdpi_facebook.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-hdpi/facebook.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/layout_halaman2.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/layout/halaman2.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-hdpi_bgemail1.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-hdpi/bgemail1.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-hdpi_bg2hal1.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-hdpi/bg2hal1.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_gogle3.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/gogle3.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_ini4.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/ini4.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_bgfb1.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/bgfb1.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_textview_background.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/textview_background.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/layout_halaman6.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/layout/halaman6.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_facebook2.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/facebook2.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_day2.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/day2.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-hdpi_image.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-hdpi/image.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_google33.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/google33.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_night.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/night.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_ini1.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/ini1.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_small_fb.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/small_fb.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/layout_halaman3.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/layout/halaman3.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/layout_halaman5.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/layout/halaman5.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_ini5.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/ini5.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_facebok22.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/facebok22.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_banner1.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/banner1.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_bghal1fix.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/bghal1fix.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_halaman7.jpg.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/halaman7.jpg"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-hdpi_bghal1.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-hdpi/bghal1.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable-xxxhdpi_image.png.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable-xxxhdpi/image.png"
+    },
+    {
+        "merged": "com.example.latihan_day_10.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.latihan_day_10.app-main-33:/drawable/ic_launcher_foreground.xml"
+    }
+]

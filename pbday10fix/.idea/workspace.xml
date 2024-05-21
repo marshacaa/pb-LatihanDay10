@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/halaman1.xml">
+        <config>
+          <theme>@style/Theme.tugas_uts_pb</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/halaman2.xml">
+        <config>
+          <theme>@style/Theme.tugas_uts_pb</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/halaman3.xml">
+        <config>
+          <theme>@style/Theme.tugas_uts_pb</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/halaman4.xml">
+        <config>
+          <theme>@style/Theme.tugas_uts_pb</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/halaman5.xml">
+        <config>
+          <theme>@style/Theme.tugas_uts_pb</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/halaman6.xml">
+        <config>
+          <theme>@style/Theme.latihan_day_10</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/halaman7.xml">
+        <config>
+          <theme>@style/Theme.latihan_day_10</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d67816b0-2cc3-4f06-85d7-09b90607850c" name="Changes" comment="">
+      <change afterPath="$USER_HOME$/Documents/Day1/app/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/androidTest/java/com/example/day1/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/java/com/example/day1/MainActivity.kt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/java/com/example/day1/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/java/com/example/day1/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/java/com/example/day1/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Day1/app/src/test/java/com/example/day1/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/.idea/.name" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/androidTest/java/com/marsya/foodapp03/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/java/com/marsya/foodapp03/DetailActivity.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/java/com/marsya/foodapp03/MainActivity.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/drawable/cbnmie.png" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/drawable/mieut.png" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/drawable/minumanut.png" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/drawable/snackut.png" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/layout/newactivity.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/app/src/test/java/com/marsya/foodapp03/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/gradle.properties" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/gradlew" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/gradlew.bat" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/FoodApp3-master/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/LatihanPBDay09/.idea/vcs.xml" beforeDir="false" afterPath="$USER_HOME$/Documents/LatihanPBDay09/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/.idea/.name" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/androidTest/java/com/marsya/marsyaquiz1/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/java/com/marsya/marsyaquiz1/DetailActivity.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/java/com/marsya/marsyaquiz1/MainActivity.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/layout/activity_detail_transaksi.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/app/src/test/java/com/marsya/marsyaquiz1/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/gradle.properties" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/gradlew" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/gradlew.bat" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MarsyaQuiz1-master/settings.gradle.kts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=/Users/marce/.android/avd/API_34_NEW.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tugas_uts_pb" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tugas_uts_pb" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tugas_uts_pb" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tugas_uts_pb" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ggf3ZqoDsY7ntZeco6lbccrCxp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/marce/Downloads/pbday10fix/app/src/main/res/drawable&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/marce/Downloads/pbday10fix/app/src/main/res/drawable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable/pict1je" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="latihan_day_10.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="tugas_uts_pb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="tugas_uts_pb" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d67816b0-2cc3-4f06-85d7-09b90607850c" name="Changes" comment="" />
+      <created>1716123942370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716123942370</updated>
+    </task>
+    <servers />
+  </component>
+</project>
